@@ -5,3 +5,4 @@ Calculadora realizada por Sabrina e Giovanna, alunas do segundo ano de Sistemas 
 **Funções**: calculadora com soma, subtração, divisão, multiplicação e potenciação.
 
 
+![CI Status](https://github.com/SEU_USUÁRIO/meu-programa/actions/workflows/ci.yml/badge.svg)
